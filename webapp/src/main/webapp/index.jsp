@@ -1,3 +1,3 @@
-<h1 style="color:orange"> HELLO WORLD HOW U DOING😉 !!! </h1>
+<h1 style="color:orange"> HELLO WORLD  !!! </h1>
 namaste
 
